@@ -7,21 +7,21 @@ Are you here to build a line follower ? Do you think you got what it takes to br
   
 ## specifications
 
-microcontroller: 
+microcontroller: 2x Arduino RF-Nano V3.0    
 
-motors: 
+motors: 2 (4x) motors GA12-N20 Motor 6V 1000 RPM (1:30)  
 
-h-bridge:
+h-bridge: 2x TB6612FNG
 
-sensors:
+sensors: 16x QRE1113
 
-batteries:
+batteries: 11.1V 1300 mah 3S battery
 
-wireless communication:
+wireless communication: RF (see build in RF in arduino Nano)
 
-distance sensor - motors:
+distance sensor - motors: Not yet done
 
-weight:
+weight: Not yet 
 
-speed: 
+speed: highest possible speed depending on the course, 4 m/s
 
