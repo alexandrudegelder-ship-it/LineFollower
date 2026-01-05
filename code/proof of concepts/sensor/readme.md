@@ -1,7 +1,5 @@
 # Sensoren proof of concept
 
----
-
 # Lineaire Sensor Module (PCB-ontwerp)
 
 Dit onderdeel van het project demonstreert de onafhankelijke uitlezing van meerdere sensoren via een analoge multiplexer, waarbij de focus ligt op een maximaal dynamisch bereik en minimale software-overhead.
@@ -42,5 +40,3 @@ De software is bewust minimalistisch gehouden om de pure hardware-werking aan te
 | **Adres S0 - S3** | Digitaal Output | Arduino D-pinnen |
 | **VCC** | Voeding | 5V |
 | **KATI 1-6** | Sensor Inputs | Kanalen C0 - C5 |
-
----
