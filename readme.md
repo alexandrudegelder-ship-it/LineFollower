@@ -4,9 +4,9 @@ Are you here to build a line follower ? Do you think you got what it takes to br
 
 # Mijn Robot Project
 
-![De afgebouwde robot](WhatsApp Image 2026-01-05 at 15.44.27 (1).jpeg)
+![De afgebouwde robot](images/robot_totaal.jpg)
 
-![Breadboard testopstelling](WhatsApp Image 2026-01-05 at 15.44.27.jpeg)
+![Breadboard testopstelling](images/breadboard_test.jpg)
 
 ## Specifications
 
@@ -19,4 +19,3 @@ Are you here to build a line follower ? Do you think you got what it takes to br
 * **Distance sensor - motors:** Not yet done
 * **Weight:** Not yet 
 * **Speed:** Highest possible speed depending on the course (~4 m/s)
-
