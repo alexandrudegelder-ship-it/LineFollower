@@ -34,6 +34,6 @@
 |         29|  Lineaire sensor  |     QRE1113GR Miniature Reflective Object Sensor      |     New      |      €0.47       |   16   |    €7.52  | [LCSC](https://www.lcsc.com/product-detail/C232862.html?s_z=n_C232862)|
 |         30|  Weerstand  |     RES 100Ω ±1% 250mW MELF-0204      |     New      |      €0,02       |   2   |    €0.05  | [LCSC](https://www.lcsc.com/product-detail/C2074944.html?s_z=n_C2074944)|
 |         31|  Weerstand  |      RES 100kΩ ±1% 250mW MELF     |     New     |      €0.02       |   2   |    €0.04  | [LCSC](https://www.lcsc.com/product-detail/C489425.html?s_z=n_C489425)|
-|Belanrijk|   |      Zonder vervoerskosten bij Aliexpress, TinyTronics en LCSC     |         |      €       |      |    €  ||
+|Belanrijk|   |      Zonder vervoerskosten bij Aliexpress, TinyTronics en LCSC     |         |      € 45,57       |      |    €  ||
 
 
