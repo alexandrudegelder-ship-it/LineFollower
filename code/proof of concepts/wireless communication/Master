@@ -1,0 +1,39 @@
+#include <SPI.h>
+#include <RF24.h>
+
+RF24 radio(7, 8); // CE, CSN
+const byte ADDR_SM[6] = "SM001", ADDR_MS[6] = "MS001";
+
+void setup() {
+  radio.begin();
+  radio.openReadingPipe(0, ADDR_SM);
+  radio.openWritingPipe(ADDR_MS);
+  radio.startListening();
+  // Pinmodes voor knoppen (2,3,4,5) en LEDs (A0-A4) hier...
+}
+
+void loop() {
+  // 1. Ontvang data van Slave (Sensoren/Potmeter)
+  if (radio.available()) {
+    char msg[32] = {0};
+    radio.read(msg, sizeof(msg));
+    Serial.println(msg); // Toont BITS of POT waarde
+  }
+
+  // 2. Knoppen checken & Commando's sturen
+  if (digitalRead(2) == LOW) { // START
+    sendCmd("StartEngines");
+    digitalWrite(A0, HIGH); digitalWrite(A1, LOW);
+  }
+  
+  if (digitalRead(3) == LOW) { // STOP
+    sendCmd("StopEngines");
+    digitalWrite(A0, LOW); digitalWrite(A1, HIGH);
+  }
+}
+
+void sendCmd(const char* txt) {
+  radio.stopListening();
+  radio.write(txt, strlen(txt) + 1);
+  radio.startListening();
+}
