@@ -22,29 +22,18 @@
 |         17|  Condensator  |      1000uF 25V Aluminum Electrolytic Capacitors Through Hole,D10xL17mm 2000hrs@105℃      |     New      |      €0.06       |   2   |    €0.12  | [LCSC](https://www.lcsc.com/product-detail/C10750.html?s_z=n_C10750)|
 |         18|  Condensator  |     CAP TANT 330nF ±10% 35V 1206      |     New      |      €0.11       |   1   |    €0.11 | [LCSC](https://www.lcsc.com/product-detail/C1953299.html?s_z=n_C1953299)|
 |         19|  Condensator  |      47uF 16V Aluminum Electrolytic Capacitors Through Hole,D5xL11mm 1000hrs@105℃      |     New      |      €0,64      |   1   |    €0,64  | [LCSC](https://www.lcsc.com/product-detail/C22320.html?s_z=n_C22320)|
-|         20|  Condensator  |      100nF ±10% 50V Ceramic Capacitor X7R 0603      |     Recup      |      €0.01       |   6  |    €0.10  | [LCSC](https://www.lcsc.com/product-detail/C127833.html?s_z=n_C127833)|
+|         20|  Condensator  |      100nF ±10% 50V Ceramic Capacitor X7R 0603      |     Recup      |      €0.01       |   23  |    €0.23  | [LCSC](https://www.lcsc.com/product-detail/C127833.html?s_z=n_C127833)|
 |         21|  Condensator  |      100uF 25V ±20% 159mA@120Hz Through Hole,D6.3xL11mm Aluminum Electrolytic Capacitors RoHS      |     New      |      €0.01       |   1   |    €0.01  | [LCSC](https://www.lcsc.com/product-detail/C49304911.html?s_z=n_C49304911)|
 |         22|  Regulator  |      TO-220-3L Plastic-Encapsulate Voltage Regulators      |     New      |      €0.18       |   1  |    €0.18  | [LCSC](https://www.lcsc.com/product-detail/C25503858.html?s_z=n_C25503858)|
-|         23|  Weerstand  |      250mW 10kΩ 200V ±15ppm/℃ Thin Film Resistor ±0.1% MELF-0204 Chip Resistor - Surface Mount RoHS      |     New      |      €0.33       |   4   |    €1.32 | [LCSC](https://www.lcsc.com/product-detail/C2083262.html?s_z=n_C2083262)|
-|         24|  Weerstand  |      220Ω ±5% 125mW 0805 Thick Film Resistor      |     Recup      |      €0.01       |   1   |    €0.01  | [LCSC](https://www.lcsc.com/product-detail/C104115.html?s_z=n_C104115)|
+|         23|  Weerstand  |      10kΩ ±5% 100mW 0603 Thick Film Resistor      |     New      |      €0.01      |   20   |    €0.2 | [LCSC](https://www.lcsc.com/product-detail/C15401.html?s_z=n_C15401)|
+|         24|  Weerstand  |      RES 220Ω ±1% 250mW MELF-0204      |     New      |      €0.01       |   17   |    €0.17  | [LCSC](https://www.lcsc.com/product-detail/C2078243.html?s_z=n_C2078243)|
 |         25| XT60  |      Banana and Tip Connector Adapters RoHS      |     New      |      €0.23       |   1   |    €0.23  | [LCSC](https://www.lcsc.com/product-detail/C19268038.html?s_z=n_C19268038)|
 |         26|  XT30  |      Banana and Tip Connector Adapters       |     New      |      €0.22       |   1   |    €0.22  | [LCSC](https://www.lcsc.com/product-detail/C99101.html?s_z=n_XT30)|
-|         27|  RF-Nano Nano V3.0  |      Micro USB Board ATmega328P QFN32 5V 16M CH340 Integreren NRF24L01 + 2.4G wireless      |     Recup      |      €3.40       |   2   |    €3.40  | [LCSC]()|
-|         28|  RF-Nano Nano V3.0  |      Micro USB Board ATmega328P QFN32 5V 16M CH340 Integreren NRF24L01 + 2.4G wireless      |     Recup      |      €3.40       |   2   |    €3.40  | [LCSC]()|
-|         29|  RF-Nano Nano V3.0  |      Micro USB Board ATmega328P QFN32 5V 16M CH340 Integreren NRF24L01 + 2.4G wireless      |     Recup      |      €3.40       |   2   |    €3.40  | [LCSC]()|
-|         30|  RF-Nano Nano V3.0  |      Micro USB Board ATmega328P QFN32 5V 16M CH340 Integreren NRF24L01 + 2.4G wireless      |     Recup      |      €3.40       |   2   |    €3.40  | [LCSC]()|
-|         19|  RF-Nano Nano V3.0  |      Micro USB Board ATmega328P QFN32 5V 16M CH340 Integreren NRF24L01 + 2.4G wireless      |     Recup      |      €3.40       |   2   |    €3.40  | [LCSC]()|
-|         19|  RF-Nano Nano V3.0  |      Micro USB Board ATmega328P QFN32 5V 16M CH340 Integreren NRF24L01 + 2.4G wireless      |     Recup      |      €3.40       |   2   |    €3.40  | [LCSC]()|
-|         19|  RF-Nano Nano V3.0  |      Micro USB Board ATmega328P QFN32 5V 16M CH340 Integreren NRF24L01 + 2.4G wireless      |     Recup      |      €3.40       |   2   |    €3.40  | [LCSC]()|
-|         19|  RF-Nano Nano V3.0  |      Micro USB Board ATmega328P QFN32 5V 16M CH340 Integreren NRF24L01 + 2.4G wireless      |     Recup      |      €3.40       |   2   |    €3.40  | [LCSC]()|
-|         19|  RF-Nano Nano V3.0  |      Micro USB Board ATmega328P QFN32 5V 16M CH340 Integreren NRF24L01 + 2.4G wireless      |     Recup      |      €3.40       |   2   |    €3.40  | [LCSC]()|
-|         19|  RF-Nano Nano V3.0  |      Micro USB Board ATmega328P QFN32 5V 16M CH340 Integreren NRF24L01 + 2.4G wireless      |     Recup      |      €3.40       |   2   |    €3.40  | [LCSC]()|
-|         19|  RF-Nano Nano V3.0  |      Micro USB Board ATmega328P QFN32 5V 16M CH340 Integreren NRF24L01 + 2.4G wireless      |     Recup      |      €3.40       |   2   |    €3.40  | [LCSC]()|
-|         19|  RF-Nano Nano V3.0  |      Micro USB Board ATmega328P QFN32 5V 16M CH340 Integreren NRF24L01 + 2.4G wireless      |     Recup      |      €3.40       |   2   |    €3.40  | [LCSC]()|
-|         19|  RF-Nano Nano V3.0  |      Micro USB Board ATmega328P QFN32 5V 16M CH340 Integreren NRF24L01 + 2.4G wireless      |     Recup      |      €3.40       |   2   |    €3.40  | [LCSC]()|
-|         19|  RF-Nano Nano V3.0  |      Micro USB Board ATmega328P QFN32 5V 16M CH340 Integreren NRF24L01 + 2.4G wireless      |     Recup      |      €3.40       |   2   |    €3.40  | [LCSC]()|
-|         19|  RF-Nano Nano V3.0  |      Micro USB Board ATmega328P QFN32 5V 16M CH340 Integreren NRF24L01 + 2.4G wireless      |     Recup      |      €3.40       |   2   |    €3.40  | [LCSC]()|
-|         19|  RF-Nano Nano V3.0  |      Micro USB Board ATmega328P QFN32 5V 16M CH340 Integreren NRF24L01 + 2.4G wireless      |     Recup      |      €3.40       |   2   |    €3.40  | [LCSC]()|
-
+|         27|  CD74HC4067M96  |      High-Speed CMOS Logic 16-Channel Analog Multiplexer/Demultiplexer      |     New      |      €0.58       |   1   |    €0.58  | [LCSC](https://www.lcsc.com/product-detail/C496123.html?s_z=n_C496123)|
+|         28|  MOSFET  |      MOSFET N-CH 30V 5.8A SOT23-3L      |     New      |      €0.02       |   2   |    €0.04  | [LCSC](https://www.lcsc.com/product-detail/C5224194.html?s_z=n_C5224194)|
+|         29|  Lineaire sensor  |     QRE1113GR Miniature Reflective Object Sensor      |     New      |      €0.47       |   16   |    €7.52  | [LCSC](https://www.lcsc.com/product-detail/C232862.html?s_z=n_C232862)|
+|         30|  Weerstand  |     RES 100Ω ±1% 250mW MELF-0204      |     New      |      €0,02       |   2   |    €0.05  | [LCSC](https://www.lcsc.com/product-detail/C2074944.html?s_z=n_C2074944)|
+|         31|  Weerstand  |      RES 100kΩ ±1% 250mW MELF     |     New     |      €0.02       |   2   |    €0.04  | [LCSC](https://www.lcsc.com/product-detail/C489425.html?s_z=n_C489425)|
+|Belanrijk|   |      Zonder vervoerskosten bij Aliexpress, TinyTronics en LCSC     |         |      €       |      |    €  ||
 
 
