@@ -4,7 +4,7 @@ Are you here to build a line follower ? Do you think you got what it takes to br
 * **Disclaimer 1: Make sure that you have enough funding, since the costs including the delivery charges of building this linefollower can be expensive in JLCPCB and Aliexpress. The calculations that I have done in the bills of materials are for the students that DON'T HAVE ANY components AT ALL. Best way to lower the costs is by forming a group of 5 people, so each of the students can have a linefollower. Also, I bought most of the components at a time when there were good deals. If possible, buy in bulk for components you buy on Aliexpress.**
 
 
-* **Disclaimer 2: Please note that my electrical schematics still contain various errors. I intentionally left the errors in the documentation to ensure that working on this project isn't just a simple matter of copy-pasting. You really need to think critically about what you are doing. So, if you're planning to replicate this, I want to warn you: be careful, because 'there is more than meets the eye.' 😜.**
+* **Disclaimer 2: Please note that my electrical schematics still contain various errors. I intentionally left the errors in the documentation to ensure that working on this project isn't just a simple matter of copy-pasting. You really need to think critically about what you are doing. So, if you're planning to replicate this, I want to warn you: be careful, because 'there is more than meets the eye.'. 😜**
 
 # Mijn Robot Project
 
