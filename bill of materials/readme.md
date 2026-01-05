@@ -1,18 +1,50 @@
 ## bill of materials
 <br />
 
-|volgnummer|naam|omschrijving|nieuw/recup|kostprijs/stuk|aantal|subtotaal|
-|----------|----|------------|-----------|---------|------|---------|
-|         1|  RF-Nano Nano V3.0  |      Micro USB Board ATmega328P QFN32 5V 16M CH340 Integreren NRF24L01 + 2.4G wireless      |     New      |      3.79        |   2   |         |
-|         2|  7502  |      MOSFET      |     New      |      0.78        |   10   |         |
-|         3|  X7R  |      Murata Keramische Monolithische condensator      |     New      |      2.31        |   25   |         |
-|         4|  Batterij  |      LiPo Battery 3S 11.1V 1300mah 75C       |     New      |      5        |   1   |         |
-|         5|  Elektrolytische condensatorkit |      Hoogfrequent assortiment 10v 16v 25v 35v 50v 400v 10uf 100uf 470uf 1000uf      |     New      |      4,82        |   21  |         |
-|         6|  ESC20A  |     Orignal Hobbywing Skywalker ESC 20A V2      |     New      |      6.20       |   1   |         |
-|         7|  EDF30 Fan |      30 mm 6 bladed ducted fan 7000KV   brushless motor   |     New      |      7,86       |   1   |         |
-|         8|  Motors  |      GA12-N20 Motor 6V Metal Gear Wheel 1000RPM Micro DC-motors      |     New      |      4.99       |   8   |         |
-|         9|  SMD  |      SMD resistor kit      |     New      |      3.80       |   1   |         |
-|         10|  RF-Nano Nano V3.0  |      Micro USB Board ATmega328P QFN32 5V 16M CH340 Integreren NRF24L01 + 2.4G wireless      |     New      |      3.79        |   2   |         |
-|         11|  RF-Nano Nano V3.0  |      Micro USB Board ATmega328P QFN32 5V 16M CH340 Integreren NRF24L01 + 2.4G wireless      |     New      |      3.79        |   2   |         |
-|         12|  RF-Nano Nano V3.0  |      Micro USB Board ATmega328P QFN32 5V 16M CH340 Integreren NRF24L01 + 2.4G wireless      |     New      |      3.79        |   2   |         |
-|         13|  RF-Nano Nano V3.0  |      Micro USB Board ATmega328P QFN32 5V 16M CH340 Integreren NRF24L01 + 2.4G wireless      |     New      |      3.79        |   2   |         |
+|volgnummer|naam|omschrijving|nieuw/recup|kostprijs/stuk|aantal|subtotaal|Link|
+|----------|----|------------|-----------|---------|------|---------|-------------|
+|         1|  RF-Nano Nano V3.0  |      Micro USB Board ATmega328P QFN32 5V 16M CH340 Integreren NRF24L01 + 2.4G wireless      |     Recup      |      €3.40       |   2   |    €3.40  | [Aliexpress](https://nl.aliexpress.com/item/1005010571745012.html?spm=a2g0o.productlist.main.1.53fa57b5JrF5Bp&algo_pvid=bdd452cf-d176-4b45-be12-94a250f92918&algo_exp_id=bdd452cf-d176-4b45-be12-94a250f92918-0&pdp_ext_f=%7B%22order%22%3A%227%22%2C%22eval%22%3A%221%22%2C%22fromPage%22%3A%22search%22%7D&pdp_npi=6%40dis%21EUR%217.74%213.40%21%21%2161.69%2127.14%21%40210384b917676295115583881e7e8b%2112000052855501180%21sea%21BE%214376562053%21X%211%210%21n_tag%3A-29919%3Bd%3A8b3f2ab7%3Bm03_new_user%3A-29895&curPageLogUid=ugMs1BH6NIIo&utparam-url=scene%3Asearch%7Cquery_from%3A%7Cx_object_id%3A1005010571745012%7C_p_origin_prod%3A)|
+|         2| EDF 30 mm  |      QX-Motor 30 MM EDF QF1611  7000 kV    |     New      |      €9.53       |   1   |    €9.53  | [Aliexpress](https://nl.aliexpress.com/item/1005006079992481.html?spm=a2g0o.order_list.order_list_main.5.756c79d2D637Eh&gatewayAdapt=glo2nld)|
+|         3|  ESC20A  |     Originele Hobbywing Skywalker 20A V2      |     New      |      €7.35       |   1   |    €7.35  | [Aliexpress](https://nl.aliexpress.com/item/1005009269823714.html?spm=a2g0o.order_list.order_list_main.105.756c79d2D637Eh&gatewayAdapt=glo2nld)|
+|         4|  Motors  |      GA12-N20 Motor 6V RPM2000 Ratio 1:10 with brackets     |     New      |      €1.23       |   4   |    €4.92 | [Aliexpress](https://nl.aliexpress.com/item/1005008344939451.html?spm=a2g0o.order_list.order_list_main.65.756c79d2D637Eh&gatewayAdapt=glo2nld)|
+|         5|  Batterij  |      3S 11.1V 450mAh 75C LiPo Batterij      |     New      |      €4.03       |   1   |    €4.03  | [Aliexpress](https://nl.aliexpress.com/item/1005009457370512.html?spm=a2g0o.detail.pcDetailBottomMoreOtherSeller.1.78f2xG0ExG0ERB&gps-id=pcDetailBottomMoreOtherSeller&scm=1007.40050.354490.0&scm_id=1007.40050.354490.0&scm-url=1007.40050.354490.0&pvid=48ccec8e-c034-40f0-8a77-22ae55b5d4ce&_t=gps-id:pcDetailBottomMoreOtherSeller,scm-url:1007.40050.354490.0,pvid:48ccec8e-c034-40f0-8a77-22ae55b5d4ce,tpp_buckets:668%232846%238108%231977&pdp_ext_f=%7B%22order%22%3A%2213%22%2C%22spu_best_type%22%3A%22order%22%2C%22eval%22%3A%221%22%2C%22sceneId%22%3A%2230050%22%2C%22fromPage%22%3A%22recommend%22%7D&pdp_npi=6%40dis%21EUR%214.91%214.03%21%21%2139.12%2132.08%21%40211b816617676301443365037e6184%2112000049162296851%21rec%21BE%214376562053%21X%211%210%21n_tag%3A-29919%3Bd%3A8b3f2ab7%3Bm03_new_user%3A-29895&utparam-url=scene%3ApcDetailBottomMoreOtherSeller%7Cquery_from%3A%7Cx_object_id%3A1005009457370512%7C_p_origin_prod%3A)|
+|         6| Headers male  |      2.54 mm x 8 pin headers male      |     New      |      €1.26       |   1   |    €1.26  | [Aliexpress](https://nl.aliexpress.com/item/32963604292.html?spm=a2g0o.order_list.order_list_main.60.756c79d2D637Eh&gatewayAdapt=glo2nld)|
+|         7|  Drukknop  |      6X6X5mm Tweepotige drukknop      |     New      |      €0.01       |   20   |    €0.37  | [Aliexpress](https://nl.aliexpress.com/item/1005006053036759.html?spm=a2g0o.order_list.order_list_main.75.756c79d2D637Eh&gatewayAdapt=glo2nld)|
+|         8| ESC20A  |      Originele Hobbywing Skywalker 20A V2      |     New      |      €7.35       |   1   |    €7.35  | [Aliexpress](https://nl.aliexpress.com/item/1005009269823714.html?spm=a2g0o.order_list.order_list_main.105.756c79d2D637Eh&gatewayAdapt=glo2nld)|
+|         9|  Dupont connector  |      2.54MM Pitch Dupont female to female  8P   |     New      |      €5.40       |   1   |    €5.40  | [Aliexpress](https://nl.aliexpress.com/item/1005007987982921.html?spm=a2g0o.order_list.order_list_main.110.756c79d2D637Eh&gatewayAdapt=glo2nld)|
+|         10|  Drivers  |      TB6612 Dual Motor Driver 1A TB6612FNG      |     New     |      €1.33       |   2   |    €2.65  | [Aliexpress](https://nl.aliexpress.com/item/1005005973846875.html?spm=a2g0o.order_detail.order_detail_item.3.78b06d76I84uk1&gatewayAdapt=glo2nld)|
+|         11|  Potentiometer  |      65PCS Trimmer Potentiometer RM065      |     New     |      €0.03      |   65   |    €2.28  | [Aliexpress](https://nl.aliexpress.com/item/1005009003739553.html?spm=a2g0o.order_detail.order_detail_item.3.76346d76RTOv6N&gatewayAdapt=glo2nld)|
+|         12|  Buck (step-down)convertor  |      Mini DC-DC Verstelbare Step-down Buck Converter 3A MP1584      |     Recup      |      €1.50       |   2   |    €3.00  | [TinyTronics](https://www.tinytronics.nl/nl/power/spanningsconverters/buck-(step-down)-converters/mini-dc-dc-verstelbare-step-down-buck-converter-1a-mp1584)|
+|         13|  Female Header  |     2.54mm 1 15P Brass -40℃~+105℃ 1x15P Top 1A Square Hole      |     New     |      €0.22       |   2   |    €0.44  | [LCSC](https://www.lcsc.com/product-detail/C124408.html?s_z=n_C124408)|
+|         14|  Female Header|      Female Header 8 Position 2.54mm Pitch Single Row Through Hole      |     New      |      €0.07      |   4   |    €0.28  | [LCSC](https://www.lcsc.com/product-detail/C27438.html?s_z=n_C27438)|
+|         15|  Condensator  |      1000uF 25V Aluminum Electrolytic Capacitors Through Hole,D10xL17mm 2000hrs@105℃      |    New      |      €0.06      |   2   |    €0.12  | [LCSC](https://www.lcsc.com/product-detail/C10750.html?s_z=n_C10750)|
+|         16|  Condensator  |      10uF ±10% 6.3V Ceramic Capacitor X7R 0805      |     New     |      €0.03       |   2   |    €0.06  | [LCSC](https://www.lcsc.com/product-detail/C527225.html?s_z=n_C527225)|
+|         17|  Condensator  |      1000uF 25V Aluminum Electrolytic Capacitors Through Hole,D10xL17mm 2000hrs@105℃      |     New      |      €0.06       |   2   |    €0.12  | [LCSC](https://www.lcsc.com/product-detail/C10750.html?s_z=n_C10750)|
+|         18|  Condensator  |     CAP TANT 330nF ±10% 35V 1206      |     New      |      €0.11       |   1   |    €0.11 | [LCSC](https://www.lcsc.com/product-detail/C1953299.html?s_z=n_C1953299)|
+|         19|  RF-Nano Nano V3.0  |      Micro USB Board ATmega328P QFN32 5V 16M CH340 Integreren NRF24L01 + 2.4G wireless      |     Recup      |      €3.40       |   2   |    €3.40  | [LCSC]()|
+|         19|  RF-Nano Nano V3.0  |      Micro USB Board ATmega328P QFN32 5V 16M CH340 Integreren NRF24L01 + 2.4G wireless      |     Recup      |      €3.40       |   2   |    €3.40  | [LCSC]()|
+|         19|  RF-Nano Nano V3.0  |      Micro USB Board ATmega328P QFN32 5V 16M CH340 Integreren NRF24L01 + 2.4G wireless      |     Recup      |      €3.40       |   2   |    €3.40  | [LCSC]()|
+|         19|  RF-Nano Nano V3.0  |      Micro USB Board ATmega328P QFN32 5V 16M CH340 Integreren NRF24L01 + 2.4G wireless      |     Recup      |      €3.40       |   2   |    €3.40  | [LCSC]()|
+|         19|  RF-Nano Nano V3.0  |      Micro USB Board ATmega328P QFN32 5V 16M CH340 Integreren NRF24L01 + 2.4G wireless      |     Recup      |      €3.40       |   2   |    €3.40  | [LCSC]()|
+|         19|  RF-Nano Nano V3.0  |      Micro USB Board ATmega328P QFN32 5V 16M CH340 Integreren NRF24L01 + 2.4G wireless      |     Recup      |      €3.40       |   2   |    €3.40  | [LCSC]()|
+|         19|  RF-Nano Nano V3.0  |      Micro USB Board ATmega328P QFN32 5V 16M CH340 Integreren NRF24L01 + 2.4G wireless      |     Recup      |      €3.40       |   2   |    €3.40  | [LCSC]()|
+|         19|  RF-Nano Nano V3.0  |      Micro USB Board ATmega328P QFN32 5V 16M CH340 Integreren NRF24L01 + 2.4G wireless      |     Recup      |      €3.40       |   2   |    €3.40  | [LCSC]()|
+|         19|  RF-Nano Nano V3.0  |      Micro USB Board ATmega328P QFN32 5V 16M CH340 Integreren NRF24L01 + 2.4G wireless      |     Recup      |      €3.40       |   2   |    €3.40  | [LCSC]()|
+|         19|  RF-Nano Nano V3.0  |      Micro USB Board ATmega328P QFN32 5V 16M CH340 Integreren NRF24L01 + 2.4G wireless      |     Recup      |      €3.40       |   2   |    €3.40  | [LCSC]()|
+|         19|  RF-Nano Nano V3.0  |      Micro USB Board ATmega328P QFN32 5V 16M CH340 Integreren NRF24L01 + 2.4G wireless      |     Recup      |      €3.40       |   2   |    €3.40  | [LCSC]()|
+|         19|  RF-Nano Nano V3.0  |      Micro USB Board ATmega328P QFN32 5V 16M CH340 Integreren NRF24L01 + 2.4G wireless      |     Recup      |      €3.40       |   2   |    €3.40  | [LCSC]()|
+|         19|  RF-Nano Nano V3.0  |      Micro USB Board ATmega328P QFN32 5V 16M CH340 Integreren NRF24L01 + 2.4G wireless      |     Recup      |      €3.40       |   2   |    €3.40  | [LCSC]()|
+|         19|  RF-Nano Nano V3.0  |      Micro USB Board ATmega328P QFN32 5V 16M CH340 Integreren NRF24L01 + 2.4G wireless      |     Recup      |      €3.40       |   2   |    €3.40  | [LCSC]()|
+|         19|  RF-Nano Nano V3.0  |      Micro USB Board ATmega328P QFN32 5V 16M CH340 Integreren NRF24L01 + 2.4G wireless      |     Recup      |      €3.40       |   2   |    €3.40  | [LCSC]()|
+|         19|  RF-Nano Nano V3.0  |      Micro USB Board ATmega328P QFN32 5V 16M CH340 Integreren NRF24L01 + 2.4G wireless      |     Recup      |      €3.40       |   2   |    €3.40  | [LCSC]()|
+|         19|  RF-Nano Nano V3.0  |      Micro USB Board ATmega328P QFN32 5V 16M CH340 Integreren NRF24L01 + 2.4G wireless      |     Recup      |      €3.40       |   2   |    €3.40  | [LCSC]()|
+|         19|  RF-Nano Nano V3.0  |      Micro USB Board ATmega328P QFN32 5V 16M CH340 Integreren NRF24L01 + 2.4G wireless      |     Recup      |      €3.40       |   2   |    €3.40  | [LCSC]()|
+|         19|  RF-Nano Nano V3.0  |      Micro USB Board ATmega328P QFN32 5V 16M CH340 Integreren NRF24L01 + 2.4G wireless      |     Recup      |      €3.40       |   2   |    €3.40  | [LCSC]()|
+|         19|  RF-Nano Nano V3.0  |      Micro USB Board ATmega328P QFN32 5V 16M CH340 Integreren NRF24L01 + 2.4G wireless      |     Recup      |      €3.40       |   2   |    €3.40  | [LCSC]()|
+|         19|  RF-Nano Nano V3.0  |      Micro USB Board ATmega328P QFN32 5V 16M CH340 Integreren NRF24L01 + 2.4G wireless      |     Recup      |      €3.40       |   2   |    €3.40  | [LCSC]()|
+|         19|  RF-Nano Nano V3.0  |      Micro USB Board ATmega328P QFN32 5V 16M CH340 Integreren NRF24L01 + 2.4G wireless      |     Recup      |      €3.40       |   2   |    €3.40  | [LCSC]()|
+|         19|  RF-Nano Nano V3.0  |      Micro USB Board ATmega328P QFN32 5V 16M CH340 Integreren NRF24L01 + 2.4G wireless      |     Recup      |      €3.40       |   2   |    €3.40  | [LCSC]()|
+|         19|  RF-Nano Nano V3.0  |      Micro USB Board ATmega328P QFN32 5V 16M CH340 Integreren NRF24L01 + 2.4G wireless      |     Recup      |      €3.40       |   2   |    €3.40  | [LCSC]()|
+
+
+
