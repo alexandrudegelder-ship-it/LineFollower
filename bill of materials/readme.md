@@ -21,18 +21,18 @@
 |         16|  Condensator  |      10uF ±10% 6.3V Ceramic Capacitor X7R 0805      |     New     |      €0.03       |   2   |    €0.06  | [LCSC](https://www.lcsc.com/product-detail/C527225.html?s_z=n_C527225)|
 |         17|  Condensator  |      1000uF 25V Aluminum Electrolytic Capacitors Through Hole,D10xL17mm 2000hrs@105℃      |     New      |      €0.06       |   2   |    €0.12  | [LCSC](https://www.lcsc.com/product-detail/C10750.html?s_z=n_C10750)|
 |         18|  Condensator  |     CAP TANT 330nF ±10% 35V 1206      |     New      |      €0.11       |   1   |    €0.11 | [LCSC](https://www.lcsc.com/product-detail/C1953299.html?s_z=n_C1953299)|
-|         19|  RF-Nano Nano V3.0  |      Micro USB Board ATmega328P QFN32 5V 16M CH340 Integreren NRF24L01 + 2.4G wireless      |     Recup      |      €3.40       |   2   |    €3.40  | [LCSC]()|
-|         19|  RF-Nano Nano V3.0  |      Micro USB Board ATmega328P QFN32 5V 16M CH340 Integreren NRF24L01 + 2.4G wireless      |     Recup      |      €3.40       |   2   |    €3.40  | [LCSC]()|
-|         19|  RF-Nano Nano V3.0  |      Micro USB Board ATmega328P QFN32 5V 16M CH340 Integreren NRF24L01 + 2.4G wireless      |     Recup      |      €3.40       |   2   |    €3.40  | [LCSC]()|
-|         19|  RF-Nano Nano V3.0  |      Micro USB Board ATmega328P QFN32 5V 16M CH340 Integreren NRF24L01 + 2.4G wireless      |     Recup      |      €3.40       |   2   |    €3.40  | [LCSC]()|
-|         19|  RF-Nano Nano V3.0  |      Micro USB Board ATmega328P QFN32 5V 16M CH340 Integreren NRF24L01 + 2.4G wireless      |     Recup      |      €3.40       |   2   |    €3.40  | [LCSC]()|
-|         19|  RF-Nano Nano V3.0  |      Micro USB Board ATmega328P QFN32 5V 16M CH340 Integreren NRF24L01 + 2.4G wireless      |     Recup      |      €3.40       |   2   |    €3.40  | [LCSC]()|
-|         19|  RF-Nano Nano V3.0  |      Micro USB Board ATmega328P QFN32 5V 16M CH340 Integreren NRF24L01 + 2.4G wireless      |     Recup      |      €3.40       |   2   |    €3.40  | [LCSC]()|
-|         19|  RF-Nano Nano V3.0  |      Micro USB Board ATmega328P QFN32 5V 16M CH340 Integreren NRF24L01 + 2.4G wireless      |     Recup      |      €3.40       |   2   |    €3.40  | [LCSC]()|
-|         19|  RF-Nano Nano V3.0  |      Micro USB Board ATmega328P QFN32 5V 16M CH340 Integreren NRF24L01 + 2.4G wireless      |     Recup      |      €3.40       |   2   |    €3.40  | [LCSC]()|
-|         19|  RF-Nano Nano V3.0  |      Micro USB Board ATmega328P QFN32 5V 16M CH340 Integreren NRF24L01 + 2.4G wireless      |     Recup      |      €3.40       |   2   |    €3.40  | [LCSC]()|
-|         19|  RF-Nano Nano V3.0  |      Micro USB Board ATmega328P QFN32 5V 16M CH340 Integreren NRF24L01 + 2.4G wireless      |     Recup      |      €3.40       |   2   |    €3.40  | [LCSC]()|
-|         19|  RF-Nano Nano V3.0  |      Micro USB Board ATmega328P QFN32 5V 16M CH340 Integreren NRF24L01 + 2.4G wireless      |     Recup      |      €3.40       |   2   |    €3.40  | [LCSC]()|
+|         19|  Condensator  |      47uF 16V Aluminum Electrolytic Capacitors Through Hole,D5xL11mm 1000hrs@105℃      |     New      |      €0,64      |   1   |    €0,64  | [LCSC](https://www.lcsc.com/product-detail/C22320.html?s_z=n_C22320)|
+|         20|  Condensator  |      100nF ±10% 50V Ceramic Capacitor X7R 0603      |     Recup      |      €0.01       |   6  |    €0.10  | [LCSC](https://www.lcsc.com/product-detail/C127833.html?s_z=n_C127833)|
+|         21|  Condensator  |      100uF 25V ±20% 159mA@120Hz Through Hole,D6.3xL11mm Aluminum Electrolytic Capacitors RoHS      |     New      |      €0.01       |   1   |    €0.01  | [LCSC](https://www.lcsc.com/product-detail/C49304911.html?s_z=n_C49304911)|
+|         22|  RF-Nano Nano V3.0  |      Micro USB Board ATmega328P QFN32 5V 16M CH340 Integreren NRF24L01 + 2.4G wireless      |     Recup      |      €3.40       |   2   |    €3.40  | [LCSC]()|
+|         23|  RF-Nano Nano V3.0  |      Micro USB Board ATmega328P QFN32 5V 16M CH340 Integreren NRF24L01 + 2.4G wireless      |     Recup      |      €3.40       |   2   |    €3.40  | [LCSC]()|
+|         24|  RF-Nano Nano V3.0  |      Micro USB Board ATmega328P QFN32 5V 16M CH340 Integreren NRF24L01 + 2.4G wireless      |     Recup      |      €3.40       |   2   |    €3.40  | [LCSC]()|
+|         25|  RF-Nano Nano V3.0  |      Micro USB Board ATmega328P QFN32 5V 16M CH340 Integreren NRF24L01 + 2.4G wireless      |     Recup      |      €3.40       |   2   |    €3.40  | [LCSC]()|
+|         26|  RF-Nano Nano V3.0  |      Micro USB Board ATmega328P QFN32 5V 16M CH340 Integreren NRF24L01 + 2.4G wireless      |     Recup      |      €3.40       |   2   |    €3.40  | [LCSC]()|
+|         27|  RF-Nano Nano V3.0  |      Micro USB Board ATmega328P QFN32 5V 16M CH340 Integreren NRF24L01 + 2.4G wireless      |     Recup      |      €3.40       |   2   |    €3.40  | [LCSC]()|
+|         28|  RF-Nano Nano V3.0  |      Micro USB Board ATmega328P QFN32 5V 16M CH340 Integreren NRF24L01 + 2.4G wireless      |     Recup      |      €3.40       |   2   |    €3.40  | [LCSC]()|
+|         29|  RF-Nano Nano V3.0  |      Micro USB Board ATmega328P QFN32 5V 16M CH340 Integreren NRF24L01 + 2.4G wireless      |     Recup      |      €3.40       |   2   |    €3.40  | [LCSC]()|
+|         30|  RF-Nano Nano V3.0  |      Micro USB Board ATmega328P QFN32 5V 16M CH340 Integreren NRF24L01 + 2.4G wireless      |     Recup      |      €3.40       |   2   |    €3.40  | [LCSC]()|
 |         19|  RF-Nano Nano V3.0  |      Micro USB Board ATmega328P QFN32 5V 16M CH340 Integreren NRF24L01 + 2.4G wireless      |     Recup      |      €3.40       |   2   |    €3.40  | [LCSC]()|
 |         19|  RF-Nano Nano V3.0  |      Micro USB Board ATmega328P QFN32 5V 16M CH340 Integreren NRF24L01 + 2.4G wireless      |     Recup      |      €3.40       |   2   |    €3.40  | [LCSC]()|
 |         19|  RF-Nano Nano V3.0  |      Micro USB Board ATmega328P QFN32 5V 16M CH340 Integreren NRF24L01 + 2.4G wireless      |     Recup      |      €3.40       |   2   |    €3.40  | [LCSC]()|
