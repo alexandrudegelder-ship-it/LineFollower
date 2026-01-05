@@ -4,9 +4,9 @@ Are you here to build a line follower ? Do you think you got what it takes to br
 
 # Mijn Robot Project
 
-![De afgebouwde robot](images/robot_totaal.jpg)
+![De afgebouwde robot](images/WhatsApp%20Image%202026-01-05%20at%2015.44.27%20%281%29.jpeg)
 
-![Breadboard testopstelling](images/breadboard_test.jpg)
+![Breadboard testopstelling](images/WhatsApp%20Image%202026-01-05%20at%2015.44.27.jpeg)
 
 ## Specifications
 
