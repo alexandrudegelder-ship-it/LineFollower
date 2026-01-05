@@ -1,6 +1,7 @@
 # LineFollower the best one yet !
 
 Are you here to build a line follower ? Do you think you got what it takes to break the speed record of 0.97 m/s ? Then you have come to the right one ! 
+* **Disclaimer:** Make sure that you have enough funding, since the costs including the delivery charges of building this linefollower can be expensive in JLCPCB, Aliexpress. The calculations that I have done in the bills of materials are for the students that DO not have ANY of the components. The recup are the ones that I already have. 
 
 # Mijn Robot Project
 
