@@ -1,0 +1,31 @@
+#include <SPI.h>
+#include <RF24.h>
+
+RF24 radio(7, 8);
+const byte ADDR_SM[6] = "SM001", ADDR_MS[6] = "MS001";
+
+void setup() {
+  radio.begin();
+  radio.openReadingPipe(0, ADDR_MS); // Luistert naar Master
+  radio.openWritingPipe(ADDR_SM);
+  radio.startListening();
+}
+
+void loop() {
+  // 1. Luisteren naar opdrachten van Master
+  if (radio.available()) {
+    char cmd[32] = {0};
+    radio.read(cmd, sizeof(cmd));
+    
+    if (strcmp(cmd, "StartEngines") == 0) { /* Start motoren logica */ }
+    if (strcmp(cmd, "VentilatorOn") == 0) { /* Start ventilator logica */ }
+  }
+
+  // 2. Sensoren uitlezen en versturen naar Master
+  int sensorData = analogRead(A0); // Voorbeeld via MUX
+  char msg[10];
+  sprintf(msg, "P%d", sensorData);
+  radio.stopListening();
+  radio.write(msg, strlen(msg) + 1);
+  radio.startListening();
+}
