@@ -52,24 +52,12 @@ In het gecorrigeerde schema zijn pinnen **D7** en **D8** volledig gereserveerd v
 De indicatie-LEDs zijn verplaatst naar de analoge pinnen om de digitale pinnen vrij te maken. Elke LED is voorzien van een **220Ω voorschakelweerstand** ter bescherming.
 
 | Indicator | Pin | Functie |
-| --- | --- | --- |
-| **START_LED** | A0 | Bevestiging van actieve status 
-
- |
-| **STOP_LED** | A1 | Bevestiging van stop-commando 
-
- |
-| **KALIBREREN** | A2 | Status van sensor-instellingen 
-
- |
-| **ERROR** | A3 | Foutmelding indicatie 
-
- |
-| **RESET** | A4 | Bevestiging van systeem-reset 
-
- |
-
----
+| --- | --- | --- |---------|
+| **START_LED** | A0 | Bevestiging van actieve status |
+| **STOP_LED** | A1 | Bevestiging van stop-commando |
+| **KALIBREREN** | A2 | Status van sensor-instellingen |
+| **ERROR** | A3 | Foutmelding indicatie |
+| **RESET** | A4 | Bevestiging van systeem-reset |
 
 ### Technische Samenvatting
 
