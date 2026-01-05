@@ -11,11 +11,11 @@ Are you here to build a line follower ? Do you think you got what it takes to br
 ## Specifications
 
 * **Microcontroller:** 2x Arduino RF-Nano V3.0
-* **Motors:** 2 (4x) motors GA12-N20 Motor 6V 1000 RPM (1:30)
+* **Motors:** 2 (4x) motors GA12-N20 Motor 6V 2000 RPM (1:10)
 * **H-bridge:** 2x TB6612FNG
 * **Sensors:** 16x QRE1113 (Line sensor array)
-* **Batteries:** 11.1V 1300 mAh 3S battery
+* **Batteries:** 11.1V 450 mAh 3S 75C 5Wh battery
 * **Wireless communication:** RF (Built-in RF in Arduino Nano)
-* **Distance sensor - motors:** Not yet done
-* **Weight:** Not yet 
-* **Speed:** Highest possible speed depending on the course (~4 m/s)
+* **Weight:** with the battery of the teacher 0.401 kg, with the one given in de BOM template 0.312 kg 
+* **Speed:** Highest possible speed depending on the course (~ 0.91m/s)
+* **Disclaimer:** This is currently the highest speed yet without the ventilator and POT value is 160. Further testing is needed which I have not been able to do so because of shortage of time. 
