@@ -1,7 +1,5 @@
 # Sensoren proof of concept
 
-Dit is een gestructureerde en technisch sterke uitleg die je direct kunt gebruiken voor de **README.md** op je GitHub-repository. Het combineert de hardware-logica van je lineaire sensor-PCB met de vereisten voor minimale software-integratie.
-
 ---
 
 # Lineaire Sensor Module (PCB-ontwerp)
